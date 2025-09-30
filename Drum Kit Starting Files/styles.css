@@ -4,16 +4,17 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 4px 0 #DA0463;
 
 }
 
 footer {
-  color: #DBEDF3;
+  color: #b8b8b8;
   font-family: sans-serif;
+  text-shadow: 1px 0 #DA0463;
 }
 
 .w {
