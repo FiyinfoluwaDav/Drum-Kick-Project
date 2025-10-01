@@ -1,7 +1,7 @@
 var numDrumButtoms = document.querySelectorAll(".drum").length;
 for(i = 0; i<numDrumButtoms; i++){
     document.querySelectorAll(".drum")[i].addEventListener("click", function(){
-        var buttonText = this.InnerHTML;
+        var buttonText = this.innerHTML;
 
         switch (buttonText) {
             case "w":
@@ -30,7 +30,7 @@ for(i = 0; i<numDrumButtoms; i++){
                 break;
                 
             case "k":
-                var kick = new Audio("sounds/kick.mp3");
+                var kick = new Audio("sounds/kick-bass.mp3");
                 kick.play();
                 break;   
                 
