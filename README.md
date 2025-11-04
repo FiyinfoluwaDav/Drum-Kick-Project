@@ -81,6 +81,4 @@ You will need a web browser to run this project.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🙏 Acknowledgments
 
-*   This project was created as part of the [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu.
