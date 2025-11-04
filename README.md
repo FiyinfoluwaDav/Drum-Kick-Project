@@ -6,7 +6,7 @@ A fun and interactive web-based drum kit that lets you play drum sounds with you
 
 Check out the live demo of the project [here](https://your-github-username.github.io/Drum-Kick-Project/).
 
-![Drum Kit Demo](https://github.com/FiyinfoluwaDav/Drum-Kick-Project/blob/main/Drum%20Kit%20Starting%20Files/images/demo.png)
+![Drum Kit Demo](demo.png)
 
 ## 📝 Description
 
