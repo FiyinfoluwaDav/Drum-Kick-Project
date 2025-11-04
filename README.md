@@ -73,7 +73,7 @@ You will need a web browser to run this project.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your-github-username/Drum-Kick-Project.git
+    git clone https://github.com/FiyinfoluwaDav/Drum-Kick-Project.git
     ```
 2.  Open the `index.html` file in your web browser.
 
