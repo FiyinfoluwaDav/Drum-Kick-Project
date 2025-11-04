@@ -8,7 +8,7 @@ Check out the live demo of the project [here](https://drum-kick-project.vercel.a
 
 ![Drum Kit Demo](demo.png)
 
-## 📝 Description
+##  Description
 
 This project is a simple yet engaging drum kit application built with HTML, CSS, and JavaScript. It allows users to play various drum sounds by either clicking on the corresponding drum pads on the screen or by pressing the associated keys on their keyboard. The application also features a "combo" effect that is triggered when a certain number of keys are pressed within a short amount of time, adding a fun and rewarding element to the user experience.
 
@@ -20,7 +20,7 @@ This project is a simple yet engaging drum kit application built with HTML, CSS,
 *   **Combo Effect:** A "combo" effect is triggered when you press 10 keys within 4 seconds, displaying a fiery "🔥 Combo! 🔥" message on the screen.
 *   **Responsive Design:** The layout of the drum kit is responsive and adapts to different screen sizes.
 
-## 🎮 How to Play
+##  How to Play
 
 1.  **Click:** Click on the drum pads on the screen to play the corresponding drum sounds.
 2.  **Keyboard:** Use the following keys on your keyboard to play the drums:
@@ -38,7 +38,7 @@ This project is a simple yet engaging drum kit application built with HTML, CSS,
 *   **CSS:** For styling the drum kit and adding visual effects.
 *   **JavaScript:** For the functionality of the drum kit, including event handling, audio playback, and the combo effect.
 
-## 📂 File Structure
+##  File Structure
 
 ```
 Drum Kit Starting Files/
@@ -63,7 +63,7 @@ Drum Kit Starting Files/
     └── tom-4.mp3
 ```
 
-## 🏁 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -79,7 +79,7 @@ You will need a web browser to run this project.
     ```
 2.  Open the `index.html` file in your web browser.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
