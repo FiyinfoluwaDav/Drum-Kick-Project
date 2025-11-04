@@ -94,8 +94,8 @@ function trackPresses() {
   pressCount++;
   //If 4 seconds passed, reset counter
   if (now - startTime > 4000){
-    pressCOunt = 1;
-    startTIme = now;
+    pressCount = 1;
+    startTime = now;
   }
 
   //If 10 presses within 4 sec --> trigger effect
