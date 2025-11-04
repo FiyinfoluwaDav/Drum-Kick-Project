@@ -1,8 +1,8 @@
-# 🥁 Drum Kit
+#  Drum Kit
 
 A fun and interactive web-based drum kit that lets you play drum sounds with your keyboard or by clicking on the drum pads. This project is part of Angela Yu's Web Development Bootcamp.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live demo of the project [here](https://drum-kick-project.vercel.app/).
 
@@ -12,7 +12,7 @@ Check out the live demo of the project [here](https://drum-kick-project.vercel.a
 
 This project is a simple yet engaging drum kit application built with HTML, CSS, and JavaScript. It allows users to play various drum sounds by either clicking on the corresponding drum pads on the screen or by pressing the associated keys on their keyboard. The application also features a "combo" effect that is triggered when a certain number of keys are pressed within a short amount of time, adding a fun and rewarding element to the user experience.
 
-## ✨ Features
+##  Features
 
 *   **Interactive Drum Pads:** Click on the drum pads to play different drum sounds.
 *   **Keyboard Support:** Use your keyboard to play the drums. The keys 'w', 'a', 's', 'd', 'j', 'k', and 'l' are mapped to different drum sounds.
@@ -32,7 +32,7 @@ This project is a simple yet engaging drum kit application built with HTML, CSS,
     *   **k:** Kick-Bass
     *   **l:** Snare
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 *   **HTML:** For the structure of the web page.
 *   **CSS:** For styling the drum kit and adding visual effects.
