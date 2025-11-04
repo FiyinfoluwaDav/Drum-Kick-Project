@@ -4,7 +4,9 @@ A fun and interactive web-based drum kit that lets you play drum sounds with you
 
 ## 🚀 Live Demo
 
-Check out the live demo of the project [here](https://drum-kick-project.vercel.app/).
+Check out the live demo of the project [here](https://your-github-username.github.io/Drum-Kick-Project/).
+
+![Drum Kit Demo](Drum%20Kit%20Starting%20Files/images/demo.png)
 
 ## 📝 Description
 
